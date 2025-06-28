@@ -11,4 +11,4 @@ day = sys.argv[1]
 # cool pandas stuff goes here
 
 # print a sentence with the argument
-print(f'job finished successfully for day = {day}')
+print(f'job finished successfully for day {day}')
